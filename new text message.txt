@@ -1,0 +1,155 @@
+00:18:00	Shaurik Deshpande (he/him):	Link the channel
+00:19:02	Justin Do:	ask and receive
+00:19:03	Justin Do:	https://www.youtube.com/channel/UCM7rT5GlE19yKaE2VXlz2Fw
+00:19:11	Andrew Byerle:	I think you skipped me btw
+00:22:29	Andrew Byerle:	yes
+00:29:21	Wid Alsadoon:	30
+00:29:22	Maya Theresa Gopal:	10 hrs
+00:29:22	Andrew Byerle:	20
+00:29:22	Brendan O'Malley:	30 hours
+00:29:23	Shaurik Deshpande (he/him):	12
+00:29:23	Michaelanthony Gore:	Around 25.
+00:29:23	Maya Krishnamoorthy:	20
+00:29:23	Adrian Bruno:	I believe it the syllabus says that 30 hours is expected. So 30 +- 5 hours would be my guess.
+00:29:23	Reed Frellick:	30 hours
+00:29:24	Brantley Wiggins:	30
+00:29:24	Anthony Burch:	5-10
+00:29:24	Yu Zhang:	20
+00:29:24	Gabriel Mercado Mendez:	25
+00:29:24	Drayton Wingler:	15
+00:29:24	Neha Patel:	20
+00:29:24	Abhinav Gadudasu:	15
+00:29:25	Yutong Wang:	14
+00:29:25	Shriya Mandal:	20 hrs
+00:29:25	Felipe Yanaga:	5
+00:29:25	Harry Galdon:	30
+00:29:26	Ethan Jacob:	30
+00:29:26	Alice (Xiaoyue) Zhang:	30
+00:29:26	Oriana Apostoli:	12 hours
+00:29:26	Felicia Umi Dizmond:	20
+00:29:26	Elad Ohana:	20 hours
+00:29:27	Vennila Thillaivanan:	Aside from class time, maybe 5 hours for assignments/quizzes
+00:29:27	Neil Thupili:	20
+00:29:27	David Nam:	1. Around 30 hours
+00:29:27	Chongyi Zheng:	12
+00:29:27	Callie Xu:	30-40
+00:29:28	Kenny Murillo:	4 hours for every 1 hour
+00:29:28	Clint Rasnick:	I expect to spend about 30-35 hours a week.
+00:29:28	Namita Krishna:	14
+00:29:29	Janae Goodison:	30
+00:29:30	Olivia Griffith:	I will spend 20 hours a week.
+00:29:31	Terrence Kapur:	6
+00:29:32	Andrea Dunn Beltran:	20
+00:29:32	Lam Ngo:	30 hrs outside of class
+00:29:33	Aayush Singh:	20 hours
+00:29:33	Peiyu Li:	10
+00:29:34	Alexander Wigger:	10 hours outside class
+00:29:35	Fariha Marzan:	15
+00:29:35	Anthony Kayode:	12 hours
+00:29:39	Maytee Akkaramongkolrojn:	16
+00:29:41	Hunter Hamrick:	12
+00:29:41	Frank Fang:	10 outside class
+00:29:42	Irene Ma:	10
+00:29:49	Justin Do:	168
+00:30:02	Harry Galdon:	^
+00:30:49	Andrew Wortas:	Anyone else see that as 30 factorial for a second
+00:31:10	Harry Galdon:	Lol, same
+00:38:54	Shaurik Deshpande (he/him):	Good/appropriate code structure for large projects
+00:38:54	Brendan O'Malley:	programming applications in the workplace, such as making your code efficient or how you should properly organize it. kind of like how we would be expected to write code in our first job/internship
+00:38:54	Reed Frellick:	Crafting consistently efficient code
+00:38:54	Terrence Kapur:	Organize my code
+00:38:55	Wid Alsadoon:	organizing and connecting a lot of simple code
+00:38:55	Andrew Byerle:	Being able to use what we already know to create more organized and complex projects, using more efficient code
+00:38:55	Brantley Wiggins:	Design patterns and how to best structure code.
+00:38:55	David Nam:	Efficiency
+00:38:55	Shriya Mandal:	how to create efficient solutions for large problems
+00:38:55	Alexander Wigger:	Multiple different languages, and more user interface interaction
+00:38:55	Abhinav Gadudasu:	Object oriented programming, interfaces
+00:38:55	Elad Ohana:	Advanced programming concepts, finding more efficient/reusable code, learn design concepts
+00:38:55	Michaelanthony Gore:	How to apply the material from 110 and 210 in the most efficient implementation.
+00:38:55	Kenny Murillo:	Organization, code structure and applications of material already learned
+00:38:55	Alice (Xiaoyue) Zhang:	How to write codes more efficiently
+00:38:56	Neil Thupili:	How to make code more efficient
+00:38:56	Adrian Bruno:	How to manage and complete an entire project. How to write clean code and useful libraries.
+00:38:56	Vennila Thillaivanan:	application of data structures learned in 210, coding more efficiently
+00:38:56	Anthony Burch:	that programming intuition
+00:38:56	Felipe Yanaga:	Threads and Concurrency, Exceptions, - Coding norms
+00:38:56	Callie Xu:	pointers, interfaces, packages, structures, inheritance,  design patterns etc
+00:38:56	Neha Patel:	Code efficiently
+00:38:56	Yu Zhang:	No idea....more well-structured lines of code maybe...
+00:38:57	Andrea Dunn Beltran:	Code organization
+00:38:57	Lam Ngo:	We have yet to learn how to write super tangible real-world applications outside of a classroom setting
+00:38:57	Frank Fang:	How to choose the most appropriate/efficient way of programming
+00:38:57	Gabriel Mercado Mendez:	How to program “well”, find the most efficient solution to a problem instead of just “any” solution.  It might be a longer to find the “efficient” code, but easier to debug.
+00:38:57	Anthony Kayode:	How/why to structure your code in a way that is scalable and easier to understand/debug
+00:38:58	Ethan Jacob:	efficient programming/ putting more thought into programs
+00:38:58	Hunter Hamrick:	OOP concepts, optimization, more complex programs
+00:38:58	Janae Goodison:	Writing good clear code for others to understand. (styling)
+00:38:58	Maya Krishnamoorthy:	efficiency
+00:39:01	Olivia Griffith:	I think this course will be about learning how to write your own code
+00:39:01	Aayush Singh:	Good programming etiquette/practices
+00:39:03	Maya Theresa Gopal:	How to create fully functioning programs for back-end and front-end, and also how compilers work. 
+00:39:03	Oriana Apostoli:	Efficient ways of coding
+00:39:04	Maytee Akkaramongkolrojn:	efficiency
+00:39:04	Felicia Umi Dizmond:	organizing code
+00:39:04	Chongyi Zheng:	code structures
+00:39:09	Drayton Wingler:	Connecting COMP 210 and 283
+00:39:15	Peiyu Li:	Structures and efficiency
+00:39:18	Harry Galdon:	Further groundwork and efficiency of code.
+00:39:19	Irene Ma:	debugging and code integration
+00:39:21	Namita Krishna:	efficient code/ how to use data structures learned from 210
+00:39:24	Fariha Marzan:	Structure and debugging
+00:39:30	Maytee Akkaramongkolrojn:	code debugging
+00:39:31	Yutong Wang:	ability of build models(patterns?) freely by using codes
+00:54:16	Vennila Thillaivanan:	how long is each quiz and are they timed?
+01:01:57	Maya Theresa Gopal:	creators of famous algorithms?
+01:02:05	Maytee Akkaramongkolrojn:	famous cs peeps
+01:18:04	Alexander Wigger:	Makes it more efficient for LA and makes us speak more concisely and understand our own problem as much as possible.
+01:18:05	Wid Alsadoon:	Gives you the opportunity to reflect on the challenge rather than take a stop immediately after coming across it
+01:18:05	Felicia Umi Dizmond:	TAs will be able to spot the problem and help us much faster if the problem is specified
+01:18:05	Vennila Thillaivanan:	More engagement makes it easier to stay on task and learn actively
+01:18:05	Clint Rasnick:	There is a barrier to receiving immediate help and we have longer to think on problems and delay gratification
+01:18:06	Michaelanthony Gore:	Instructors avoid constantly checking Piazza for new questions.
+01:18:06	Adrian Bruno:	This will make sure that people use all other resources available before taking up the bandwidth of TAs. 
+01:18:06	David Nam:	Clear and organized communication
+01:18:06	Elad Ohana:	Advantage to instructors: reduce the amount of repeat questions, Advantage to students: get more diverse perspective
+01:18:06	Shaurik Deshpande (he/him):	We think through the problem thoroughly before coming to instructors
+01:18:07	Alice (Xiaoyue) Zhang:	We all can save time
+01:18:07	Felipe Yanaga:	Time efficiency, makes us think about other solutions before asking for help
+01:18:07	Reed Frellick:	Saves instructors time and makes students seek answers from other sources first
+01:18:07	Lam Ngo:	Makes us think abt our problem independently for a while before getting guidance
+01:18:07	Kenny Murillo:	More interactive than lecturing, able to communicate more closely with others
+01:18:08	Shriya Mandal:	it's more useful for future career
+01:18:08	Abhinav Gadudasu:	Allows us to think about problem we need to solve and give instructors time to prepare an answer
+01:18:09	Terrence Kapur:	More interaction
+01:18:10	Callie Xu:	a specific description lets you have a better idea of potential solutions to help people out quicker, saves time for both people
+01:18:10	Yu Zhang:	more motivation save time
+01:18:10	Brantley Wiggins:	Flexibility
+01:18:11	Irene Ma:	get help for our questions
+01:18:11	Gabriel Mercado Mendez:	We get the opportunity to lead our learning process, which is key when programming. You get more flexibility in how to teach the material which may vary from student to student.
+01:18:11	Anthony Kayode:	Flexibility!
+01:18:12	Aayush Singh:	More personalized help available to us
+01:18:12	Frank Fang:	Make sure that we all can get help we need
+01:18:13	Brendan O'Malley:	easier to manage
+01:18:13	Andrew Byerle:	Everyone is able to work conveniently
+01:18:14	Anthony Burch:	office hours less cluttered
+01:18:14	Peiyu Li:	More practice
+01:18:15	Maytee Akkaramongkolrojn:	Flexibility
+01:18:16	Chongyi Zheng:	make question answering and office hours more efficient
+01:18:18	Yutong Wang:	flexibility
+01:18:20	Maya Theresa Gopal:	We get to work with other students
+01:18:21	Oriana Apostoli:	More efficient and everybody is able to get help in an organized way
+01:18:26	Olivia Griffith:	flexibility
+01:18:30	Peiyu Li:	flexibility
+01:18:31	Ethan Jacob:	We have many hours when we can get help. You are able to prepare for our question and respond to our question effectively
+01:18:35	Maytee Akkaramongkolrojn:	Allows for there to be sufficient help for all studnets
+01:18:36	Neil Thupili:	Allows us to get help from different persepectives
+01:18:41	Fariha Marzan:	Asking the question often lead us to the efficient answer
+01:18:41	Andrea Dunn Beltran:	Ensures that the students have a clearly addressed issue and ensures that the office hours will be more efficient
+01:18:41	Namita Krishna:	more efficient and flexible
+01:18:45	Drayton Wingler:	Makes you think about the problem more before you attend office hours, meaning you might resolve the problem before office hours
+01:18:45	Harry Galdon:	Organized and efficient help
+01:19:05	Hunter Hamrick:	TAs are able to prepare to help us
+01:19:20	Janae Goodison:	More self and collaborative practice 
+01:20:30	Justin Do:	make friends for when you come back to campus in the fall :)
+01:21:02	Lam Ngo:	^
